@@ -1,6 +1,6 @@
 {
-  "name": "atm-machine",
-  "version": "1.0.0",
+  "name": "atm-machine-by-ashi",
+  "version": "1.0.1",
   "main": "atm.js",
   "bin": "atm.js",
   "type": "module",
